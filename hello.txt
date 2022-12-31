@@ -1,6 +1,6 @@
 Hello Git! git stash test
-Hello Git!
-Hello Git!
+Hello Git! git stash test
+Hello Git! git stash test
 Hello Git!
 Hello Git!
 Hello Git!
